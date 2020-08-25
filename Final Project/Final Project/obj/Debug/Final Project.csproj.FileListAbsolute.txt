@@ -1,0 +1,166 @@
+C:\Users\quang\source\repos\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\quang\source\repos\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.Table.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.Main.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.Order.resources
+C:\Users\quang\source\repos\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.Pay.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.frmLogin.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.frmAdd.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.frmCreate.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.frmEdit.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.EditMenu.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.frmHistory.resources
+C:\Users\quang\source\repos\Final Project\Final Project\obj\Debug\Final_Project.ManagerGUI.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.frmAdd.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.frmCreate.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.frmEdit.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.EditMenu.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.frmHistory.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.frmLogin.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.Main.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.ManagerGUI.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.Order.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.Pay.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final_Project.Table.resources
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\user\Desktop\Project C#\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.frmAdd.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.frmCreate.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.frmEdit.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.EditMenu.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.frmLogin.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.Main.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.ManagerGUI.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.Order.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.Pay.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.Table.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.GUI.History.resources
+C:\Users\quang\Desktop\Final-Project\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryDetail.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.frmAdd.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.frmCreate.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.frmEdit.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.EditMenu.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.frmLogin.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.GUI.History.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryDetail.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.Main.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.ManagerGUI.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.Order.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.Pay.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final_Project.Table.resources
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final-Project\New folder\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.frmAdd.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.frmCreate.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.frmEdit.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.EditMenu.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.frmLogin.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.Main.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.ManagerGUI.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.Order.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.Pay.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.Table.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryGUI.resources
+C:\Users\user\Desktop\Project C#\New folder\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryDetailGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.frmAdd.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.frmCreate.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.frmEdit.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.EditMenu.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.frmLogin.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryDetailGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.Main.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.ManagerGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.Order.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.Pay.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final_Project.Table.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final_Project\vip_project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.frmAdd.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.frmCreate.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.frmEdit.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.EditMenu.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.frmLogin.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryDetailGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Main.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.ManagerGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Order.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Pay.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Table.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.frmAdd.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.frmCreate.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.frmEdit.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.EditMenu.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.frmLogin.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.GUI.HistoryDetailGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Main.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.ManagerGUI.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Order.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Pay.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final_Project.Table.resources
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\quang\Desktop\Final_Project\vip_project\New folder\New folder\New folder\SE1407_Group4_Project\SE1407_Group4_Project\Final Project\Final Project\obj\Debug\Final Project.pdb
